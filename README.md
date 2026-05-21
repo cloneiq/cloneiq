@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="cloneiq_cover3.png" alt="CloneIQ GitHub Profile Banner" />
-</p>
 
 
 <p align="center">
