@@ -42,16 +42,6 @@ I am **Lijun Liu** (`@cloneiq`), working on **medical artificial intelligence**,
   </tr>
 </table>
 
-## ⭐ Featured Research Projects
-
-| Project | Focus |
-|---|---|
-| [**ARISE-MedVQA**](https://github.com/cloneiq/ARISE-MedVQA) | A curated academic resource hub for Medical Visual Question Answering, covering surveys, datasets, metrics, methods, MLLMs, medical agents, and code resources. |
-| [**CIMB-MVQA**](https://github.com/cloneiq/CIMB-MVQA) | Causal intervention on modality-specific biases for Medical Visual Question Answering. |
-| [**CKRA-MedVQA**](https://github.com/cloneiq/CKRA-MedVQA) | Dynamic context-aware cross-modal contrastive learning for Medical Visual Question Answering. |
-| [**DE-CaGI**](https://github.com/cloneiq/DE-CaGI) | Causal gradient intervention for debiased and evidence-grounded Medical Visual Question Answering. |
-| [**C3E-RRG**](https://github.com/cloneiq/C3E-RRG) | Confounder-aware causal evidence coupling and evolution for chest X-ray report generation. |
-
 ## 🛠️ Technical Interests
 
 <p align="center">
