@@ -1,9 +1,9 @@
-<p align="center">
+**<p align="center">
   <img src="cloneiq_cover3.png" alt="CloneIQ GitHub Profile Banner" />
-</p>
+</p>**
 
 
-<p align="center">
+**<p align="center">
   <a href="https://github.com/cloneiq">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-cloneiq-111827?logo=github">
   </a>
@@ -14,7 +14,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-cloneiq%40kust.edu.cn-dc2626">
   </a>
 </p>
-
+**
 <p align="center">
   <b>AI for Medical Imaging · Medical Visual Question Answering · Radiology Report Generation · Trustworthy Multimodal Medical Intelligence</b>
 </p>
