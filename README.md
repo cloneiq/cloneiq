@@ -1,20 +1,3 @@
-**<p align="center">
-  <img src="cloneiq_cover3.png" alt="CloneIQ GitHub Profile Banner" />
-</p>**
-
-
-**<p align="center">
-  <a href="https://github.com/cloneiq">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-cloneiq-111827?logo=github">
-  </a>
-  <a href="https://github.com/cloneiq/ARISE-MedVQA">
-    <img alt="ARISE-MedVQA" src="https://img.shields.io/badge/Resource%20Hub-ARISE--MedVQA-0f766e">
-  </a>
-  <a href="mailto:cloneiq@kust.edu.cn">
-    <img alt="Email" src="https://img.shields.io/badge/Email-cloneiq%40kust.edu.cn-dc2626">
-  </a>
-</p>
-**
 <p align="center">
   <b>AI for Medical Imaging · Medical Visual Question Answering · Radiology Report Generation · Trustworthy Multimodal Medical Intelligence</b>
 </p>
