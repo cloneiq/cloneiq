@@ -1,7 +1,3 @@
-<p align="center">
-  <b>AI for Medical Imaging · Medical Visual Question Answering · Radiology Report Generation · Trustworthy Multimodal Medical Intelligence</b>
-</p>
-
 ## 👋 About
 
 I am **Lijun Liu** (`@cloneiq`), working on **medical artificial intelligence**, with a focus on medical imaging, multimodal learning, medical visual question answering, radiology report generation, and trustworthy clinical reasoning. My GitHub is organized as a research-oriented project hub for reproducible medical AI, including model implementations, academic resource repositories, and medical image analysis projects.
