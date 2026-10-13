@@ -18,6 +18,7 @@ I am **Lijun Liu** (`@cloneiq`), working on **medical artificial intelligence**,
     </td>
   </tr>
 </table>
+
 ## 📌 Pinned Repositories
 
 **The following pinned repositories highlight representative work by our team in medical VQA, radiology report generation, and medical image analysis.**
