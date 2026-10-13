@@ -18,18 +18,6 @@ I am **Lijun Liu** (`@cloneiq`), working on **medical artificial intelligence**,
     </td>
   </tr>
 </table>
-
-## 🛠️ Technical Interests
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-ee4c2c?logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Medical%20Imaging-AI-2563eb">
-  <img src="https://img.shields.io/badge/Med--VQA-Multimodal%20Reasoning-0f766e">
-  <img src="https://img.shields.io/badge/Causal%20Inference-Debiased%20Learning-7c3aed">
-  <img src="https://img.shields.io/badge/Radiology%20Report%20Generation-RRG-dc2626">
-  <img src="https://img.shields.io/badge/Medical%20Agents-Active%20Inquiry-111827">
-</p>
-
 ## 📌 Pinned Repositories
 
 **The following pinned repositories highlight representative work by our team in medical VQA, radiology report generation, and medical image analysis.**
