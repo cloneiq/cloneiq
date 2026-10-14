@@ -1,5 +1,3 @@
-# Lijun Liu
-
 **Medical Artificial Intelligence | Medical Vision-Language Learning | Trustworthy Clinical AI**
 
 I am a researcher working at the intersection of **artificial intelligence and medical imaging**, with a particular focus on medical visual question answering, radiology report generation, multimodal representation learning, and trustworthy clinical reasoning.
